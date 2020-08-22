@@ -4,7 +4,7 @@
 ### About me
 - I'm studying at Polytechnique Montreal in software engineering
 - I have been working with computers for the last 3 years in my free time
-- I daily drive arch linux for the last year and still loving it
+- I daily drive Arch Linux for the last year and still loving it
 - I work as a fiber optic installer for the last year and a half
 - I love tweaking on computers, especialy on linux. Very a lot of fun, I recommand
 
