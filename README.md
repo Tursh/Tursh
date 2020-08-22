@@ -2,7 +2,7 @@
 ## I'm Tursh, student in computer science and happy to collaborate.
 
 ### About me
-- I'm studying at Polytechinique Montreal in software engineering
+- I'm studying at Polytechnique Montreal in software engineering
 - I have been working with computers for the last 3 years in my free time
 - I daily drive arch linux for the last year and still loving it
 - I work as a fiber optic installer for the last year and a half
