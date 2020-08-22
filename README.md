@@ -6,7 +6,7 @@
 - I have been working with computers for the last 3 years in my free time
 - I daily drive Arch Linux for the last year and still loving it
 - I work as a fiber optic installer for the last year and a half
-- I love tweaking on computers, especialy on linux. Very a lot of fun, I recommand
+- I love tweaking on computers, especialy on linux. Very a lot of fun, I recommend
 
 ### Competences
 - I'm fluent in C++, C#, Java, GLSL...
@@ -19,7 +19,7 @@
 That's pretty much all about me, but if you wait to reach me: 
 Discord - Tursh#8742
 
-And btw my name is Raphael
+And by the way, my name is Raphael
 
 <!--
 **Tursh/Tursh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
