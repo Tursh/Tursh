@@ -10,6 +10,7 @@
 
 ### Competences
 - I'm fluent in C++, C#, Java, GLSL...
+- Daily user of Linux, Git, Clion and many others
 - Being autodidact, I can learn everything I need by myself
 
 ### Working On
