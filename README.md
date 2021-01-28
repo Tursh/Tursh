@@ -1,23 +1,23 @@
 # Hello there 👋. 
-## I'm Tursh, student in computer science and happy to collaborate.
+## I'm Tursh, a student in computer sciences and always happy to collaborate.
 
 ### About me
 - I'm studying at Polytechnique Montreal in software engineering
-- I have been working with computers for the last 3 years in my free time
-- I daily drive Arch Linux for the last year and still loving it
-- I work as a fiber optic installer for the last year and a half
-- I love tweaking on computers, especialy on linux. A lot of fun, I recommend
+- I've been working with computers for the last 3 years during my free time
+- I've been using Arch Linux daily for the last year and I'm still loving it
+- I've been working as a fiber optic installer for the last year and a half
+- I love tweaking hardware and software, especialy on linux. Lots of fun, I strongly recommend it!
 
 ### Competences
 - I'm fluent in C++, C#, Java, GLSL...
-- Daily user of Linux, Git, Clion and many others
-- Being autodidact, I can learn everything I need by myself
+- I'm extremely familiar with Linux, Git, Clion and many others
+- I'm mostly self-taught which means I can learn everything I need by myself
 
 ### Working On
 - A procedural terrain generator
 - A Dugeon Crawler type of game
 
-That's pretty much all about me, but if you wait to reach me: 
+Always up to work on new projects; if you want to reach me, you can contact me on Discord :) 
 Discord - Tursh#8742
 
 And by the way, my name is Raphael
