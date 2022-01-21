@@ -20,8 +20,6 @@
 Always up to work on new projects; if you want to reach me, you can contact me on Discord :) 
 Discord - Tursh#8742
 
-And by the way, my name is Raphael
-
 <!--
 **Tursh/Tursh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
