@@ -1,5 +1,5 @@
 # Hello there 👋. 
-## I'm Tursh, a student in computer sciences and always happy to collaborate.
+## I'm Raphaël aka Tursh, a student in computer sciences and always happy to collaborate.
 
 ### About me
 - I'm studying at Polytechnique Montreal in software engineering
