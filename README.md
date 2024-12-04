@@ -1,11 +1,10 @@
 # Hello there 👋. 
-## I'm Raphaël aka Tursh, a student in computer sciences and always happy to collaborate.
+## I'm Raphaël, a bachelor in software engineering and currently starting a major and always happy to collaborate.
 
 ### About me
-- I'm studying at Polytechnique Montreal in software engineering
-- I've been working with computers for the last 5 years during my free time
-- I've been using Arch Linux daily for the last 3 years and I'm still loving it
-- I've been working as a software developper for Orthogone Technologies Inc. for 6 months
+- I'm studying at Polytechnique Montreal in software engineering.
+- I've been working with computers for the last 7 years during my free time and in professionnal contexts.
+- I've been working as a software developper for Orthogone Technologies Inc. for 2.5 months.
 - I love tweaking hardware and software, especialy on linux. Lots of fun, I strongly recommend it!
 
 ### Competences
@@ -14,11 +13,11 @@
 - I'm mostly self-taught which means I can learn everything I need by myself
 
 ### Working On
-- Making NIC driver for linux
+- Too many projects at same time
 - A Vulkan cross platform game engine (CGE2)
 
 Always up to work on new projects; if you want to reach me, you can contact me on Discord :) 
-Discord - Tursh#8742
+Discord - Tursh
 
 <!--
 **Tursh/Tursh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
