@@ -1,10 +1,10 @@
 # Hello there 👋. 
-## I'm Raphaël, a bachelor in software engineering and currently starting a major and always happy to collaborate.
+## I'm Raphaël, I have a bachelor in software engineering and currently starting a major and always happy to collaborate.
 
 ### About me
-- I'm studying at Polytechnique Montreal in software engineering.
+- I'm studying and teaching at Polytechnique Montreal in software engineering.
 - I've been working with computers for the last 7 years during my free time and in professionnal contexts.
-- I've been working as a software developper for Orthogone Technologies Inc. for 2.5 months.
+- I've worked as a embedded software developper for Orthogone Technologies Inc. for 3 years
 - I love tweaking hardware and software, especialy on linux. Lots of fun, I strongly recommend it!
 
 ### Competences
